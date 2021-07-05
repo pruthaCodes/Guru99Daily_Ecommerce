@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="27530" started-at="2021-07-04T18:46:41Z" finished-at="2021-07-04T18:47:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="27530" started-at="2021-07-04T18:46:41Z" finished-at="2021-07-04T18:47:09Z">
+      <class name="tests.CompageMobileTest">
+        <test-method status="PASS" signature="launchSite()[pri:0, instance:tests.CompageMobileTest@887af79]" name="launchSite" is-config="true" duration-ms="15720" started-at="2021-07-04T18:46:41Z" finished-at="2021-07-04T18:46:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="clickOnMobile()[pri:1, instance:tests.CompageMobileTest@887af79]" name="clickOnMobile" duration-ms="2102" started-at="2021-07-04T18:46:57Z" finished-at="2021-07-04T18:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMobile -->
+        <test-method status="PASS" signature="clickOnCompare()[pri:2, instance:tests.CompageMobileTest@887af79]" name="clickOnCompare" duration-ms="4157" started-at="2021-07-04T18:46:59Z" finished-at="2021-07-04T18:47:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnCompare -->
+        <test-method status="PASS" signature="validityPopup()[pri:3, instance:tests.CompageMobileTest@887af79]" name="validityPopup" duration-ms="4490" started-at="2021-07-04T18:47:03Z" finished-at="2021-07-04T18:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validityPopup -->
+        <test-method status="PASS" signature="validityMobileNames()[pri:4, instance:tests.CompageMobileTest@887af79]" name="validityMobileNames" duration-ms="65" started-at="2021-07-04T18:47:08Z" finished-at="2021-07-04T18:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validityMobileNames -->
+        <test-method status="PASS" signature="clickClose()[pri:5, instance:tests.CompageMobileTest@887af79]" name="clickClose" duration-ms="64" started-at="2021-07-04T18:47:08Z" finished-at="2021-07-04T18:47:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickClose -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:tests.CompageMobileTest@887af79]" name="tearDown" is-config="true" duration-ms="911" started-at="2021-07-04T18:47:08Z" finished-at="2021-07-04T18:47:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.CompageMobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
